@@ -1,6 +1,10 @@
 {
   "dependencies": {
     "@playwright/test": "^1.43.0",
-    "playwright": "^1.43.0"
+    "playwright": "^1.43.0",
+    "puppeteer": "^22.6.3"
+  },
+  "scripts": {
+    "log": "node log-with-puppet.js"
   }
 }
