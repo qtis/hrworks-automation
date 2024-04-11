@@ -5,6 +5,6 @@
     "puppeteer": "^22.6.3"
   },
   "scripts": {
-    "log": "node log-with-puppet.js"
+    "log-with-puppet": "node log-with-puppet.js"
   }
 }
